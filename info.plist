@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>bundleid</key>
-	<string>cn.king</string>
+	<string>https://github.com/mumubusu/</string>
 	<key>category</key>
 	<string>Tools</string>
 	<key>connections</key>
@@ -100,7 +100,10 @@
 		</dict>
 	</array>
 	<key>readme</key>
-	<string></string>
+	<string>The function point:
+1. Idcard number generation;
+2. Idcard number check;
+3. Extraction of Idcard number;</string>
 	<key>uidata</key>
 	<dict>
 		<key>6EE627AF-E38F-4EE3-812D-5DB98128A524</key>
@@ -118,7 +121,11 @@
 			<integer>250</integer>
 		</dict>
 	</dict>
+	<key>variablesdontexport</key>
+	<array/>
+	<key>version</key>
+	<string>1.0.0</string>
 	<key>webaddress</key>
-	<string></string>
+	<string>https://github.com/mumubusu/idcard-alfred-workflow</string>
 </dict>
 </plist>
