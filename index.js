@@ -58,6 +58,22 @@ if (typeof idno == "undefined") {
                 }
             },
             {
+                title: "年龄",
+                subtitle: info.age,
+                arg: info.age,
+                icon: {
+                    path: "./images/age.png"
+                }
+            },
+            {
+                title: "生肖",
+                subtitle: zodiacValue,
+                arg: zodiacValue,
+                icon: {
+                    path: "./images/shuxiao.png"
+                }
+            },
+            {
                 title: "星座",
                 subtitle: info.constellation,
                 arg: info.constellation,
@@ -73,14 +89,6 @@ if (typeof idno == "undefined") {
                     path: "./images/xingbie.png"
                 }
             },
-            {
-                title: "生肖",
-                subtitle: zodiacValue,
-                arg: zodiacValue,
-                icon: {
-                    path: "./images/shuxiao.png"
-                }
-            }
         ];
     }
 }
