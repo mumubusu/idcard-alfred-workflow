@@ -1,0 +1,19 @@
+{
+  "name": "idcard-alfred-workflow",
+  "version": "1.0.0",
+  "description": "Identity card verifier",
+  "main": "index.js",
+  "dependencies": {
+    "alfy": "^0.9.1",
+    "idcard": "^4.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "idcard|verifier|builder"
+  ],
+  "author": "@king",
+  "license": "ISC"
+}
