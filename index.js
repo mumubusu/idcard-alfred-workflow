@@ -1,13 +1,19 @@
+/**
+ * 该文件名- index.js
+ * 编码作者- @king
+ * 创建日期- 2020/05/05 20:10
+ * 作者邮箱- s.showling@163.com
+ * 修改时间-
+ * 修改备注-
+ * 编码内容-
+ */
 'use strict';
 
 const idCard = require('idcard');
 const zodiac = require('./libs/zodiac');
 const alfy = require('alfy');
 
-// let arg = process.argv.splice(2);
-// console.log('arg', arg);
 let idno = alfy.input;
-// console.log('idno', idno, typeof idno);
 let result_values = [];
 if (typeof idno == "undefined") {
 
