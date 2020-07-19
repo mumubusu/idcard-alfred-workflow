@@ -35,7 +35,7 @@ if (typeof idno == "undefined") {
         }];
     } else {
         let birthday = info.birthday.toString();
-        let zodiacValue = zodiac.getZodiac(info.birthday);
+        let zodiacValue = zodiac.getZodiac(birthday.slice(0, 4));
         birthday = birthday.slice(0, 4) + "/" + birthday.slice(4, 6) + "/" + birthday.slice(6,8);
         let gender = info.gender == "M" ? "男" : "女";
         result_values = [
