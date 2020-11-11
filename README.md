@@ -15,5 +15,6 @@ Idcard Workflow for [Alfred 4](http://www.alfredapp.com)
 
 
 Contribution
+--------------------
 
-@ailbs
+[@ailbs](https://github.com/ailbs)
