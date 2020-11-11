@@ -12,3 +12,8 @@ Idcard Workflow for [Alfred 4](http://www.alfredapp.com)
 
 ![截图](screenshot/generate.png)
 ![截图](screenshot/info.png)
+
+
+Contribution
+
+@ailbs
